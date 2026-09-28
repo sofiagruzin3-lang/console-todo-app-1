@@ -70,7 +70,6 @@ while "YES":
        show_tasks()
   elif choose=="3" or choose=="change status":
      change_status()
-     break
   elif choose=="4" or choose=="delete task":
       delete_task()
   elif choose=="5" or choose=="exit":
